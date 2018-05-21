@@ -7,9 +7,9 @@
 ## Задача №2
 1. Разметить текст во втором теге `section`. Названия зданий сделать заголовками третьего уровня, описания абзацами. Перед описанием каждого здания вставить его фотографию:
 
-* *Музей искусств в Нитерое* - [https://wizzzjer.github.io/html-foxford-homeworks/tags/res/niteroa.jpg](https://wizzzjer.github.io/html-foxford-homeworks/tags/res/niteroa.jpg)
-* *Центр Жоржа Помпиду* - [https://wizzzjer.github.io/html-foxford-homeworks/tags/res/pompidoo.jpg](https://wizzzjer.github.io/html-foxford-homeworks/tags/res/pompidoo.jpg)
-* *Институт арабского мира* - [https://wizzzjer.github.io/html-foxford-homeworks/tags/res/arabic.jpg](https://wizzzjer.github.io/html-foxford-homeworks/tags/res/arabic.jpg)
+* *Музей искусств в Нитерое* - [https://netology-code.github.io/html-foxford-homeworks/tags/res/niteroa.jpg](https://netology-code.github.io/html-foxford-homeworks/tags/res/niteroa.jpg)
+* *Центр Жоржа Помпиду* - [https://netology-code.github.io/html-foxford-homeworks/tags/res/pompidoo.jpg](https://netology-code.github.io/html-foxford-homeworks/tags/res/pompidoo.jpg)
+* *Институт арабского мира* - [https://netology-code.github.io/html-foxford-homeworks/tags/res/arabic.jpg](https://netology-code.github.io/html-foxford-homeworks/tags/res/arabic.jpg)
 
 2. Добавить название здания в качестве альтернативного текста для фотографии.
 
