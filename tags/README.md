@@ -7,46 +7,10 @@
 ## Задача №2
 1. Разметить текст во втором теге `section`. Названия зданий сделать заголовками третьего уровня, описания абзацами. Перед описанием каждого здания вставить его фотографию:
 
-* *Музей искусств в Нитерое* - 
-* *Центр Жоржа Помпиду* - 
-* *Институт арабского мира* - 
+* *Музей искусств в Нитерое* - [https://wizzzjer.github.io/html-foxford-homeworks/tags/res/niteroa.jpg](https://wizzzjer.github.io/html-foxford-homeworks/tags/res/niteroa.jpg)
+* *Центр Жоржа Помпиду* - [https://wizzzjer.github.io/html-foxford-homeworks/tags/res/pompidoo.jpg](https://wizzzjer.github.io/html-foxford-homeworks/tags/res/pompidoo.jpg)
+* *Институт арабского мира* - [https://wizzzjer.github.io/html-foxford-homeworks/tags/res/arabic.jpg](https://wizzzjer.github.io/html-foxford-homeworks/tags/res/arabic.jpg)
 
 2. Добавить название здания в качестве альтернативного текста для фотографии.
 
 3. На фразе *летающей тарелкой* поставить ссылку на страницу [https://en.wikipedia.org/wiki/Unidentified_flying_object](https://en.wikipedia.org/wiki/Unidentified_flying_object) и на слове *арабески* поставить ссылку на страницу [http://galamosaic.ru/ru/mediateka/detail.php?id=424](http://galamosaic.ru/ru/mediateka/detail.php?id=424)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 1 Разметить текст с помощью тегов: заголовки 1-2 уровней, абзацы, цитаты.
-# 2 Поставить ссылки на некоторые слова / фразы, вставить изображения между параграфами. К изображениям добавить альтернативный текст.
-
-
-
-
-
-
-1. Разметить текст в первом теге `section`. Предложение *Что такое нейросеть* сделать заголовком второго уровня. Под ним должно получиться два абзаца текста.
-2. Во втором абзаце в предложении *Недавно, например, нейросеть научилась писать песни в стиле Егора Летова* поставить ссылку на слове научилась на страницу [https://meduza.io/shapito/2016/06/28/neyronnaya-oborona-robot-napisal-teksty-pesen-pod-egora-letova](https://meduza.io/shapito/2016/06/28/neyronnaya-oborona-robot-napisal-teksty-pesen-pod-egora-letova)
-
-## Задача №2
-1. Исправить разметку во втором теге `section`, так, чтобы фраза *Дорога* стала заголовком второго уровня. После которого идет абзац текста, цитата, внутри которой тоже абзац текста, и еще один абзац.
-
-## Задача №3
-1. Разметить текст в третьем теге `section` с заголовком *Источники и гейзеры Камчатки*. Названия гейзеров и источников сделать заголовком `h3`, описание абзацем. Перед описанием каждого гейзера вставить его фотографию:
-    * *Поселок малки* — [http://cdn02.mir.afisha.ru/imgs/2016/07/28/11/11818/32f4b0ce86c4b5c749c95ef413af81a657e43266.jpg](http://cdn02.mir.afisha.ru/imgs/2016/07/28/11/11818/32f4b0ce86c4b5c749c95ef413af81a657e43266.jpg)
-    * *Налычевская долина* — [http://cdn01.mir.afisha.ru/imgs/2016/07/28/12/11822/ed59309a072af4003bfe0e2757dc70bd7357000f.jpg](http://cdn01.mir.afisha.ru/imgs/2016/07/28/12/11822/ed59309a072af4003bfe0e2757dc70bd7357000f.jpg)
-    * *Паратунка* — [http://cdn00.mir.afisha.ru/imgs/2016/07/28/10/11816/5db7233de2cfc092cb00d0b6314aaeb275dc592e.jpg](http://cdn00.mir.afisha.ru/imgs/2016/07/28/10/11816/5db7233de2cfc092cb00d0b6314aaeb275dc592e.jpg)
-2. Добавьте название гейзера в качестве альтернативного текста для фотографии.
-

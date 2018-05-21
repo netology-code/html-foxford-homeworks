@@ -11,3 +11,4 @@ blockquote {position: relative; font-size: 15px; font-style: italic; padding: 20
 blockquote:before {position: absolute; top: -5px; left: 30px; content:'«';font-size: 50px; font-style: normal;}
 blockquote:after {position: absolute; bottom: 5px; right: 30px; content:'»';font-size: 50px; font-style: normal;}
 section {border: 1px solid #d8d8d8; max-width: 800px; margin: 20px auto; padding: 40px 30px; box-shadow: 0 2px 5px rgba(0,0,0,0.2);}
+img {margin: 10px auto; display: block;}
