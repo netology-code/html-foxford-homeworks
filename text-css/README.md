@@ -7,8 +7,8 @@
     * Увеличить размер шрифта в 5 раз (`500%`);
     * Задать минимальную жирность шрифта (`100`).
 2. Для заголовков `h4` установить размер шрифта `15px`.
-3. Для параграфов `p`, вложенных в `article` задать наклонное начертание шрифта. При этом параграфы вне тегов `article` затронуты быть не должны.
-4. Для списков первого уровня установить в качестве маркера квадрат (■), а для списков второго уровня картинку ![маркер](https://netology-code.github.io/html-foxford-homeworks/text-css/res/bullit.png) — [https://netology-code.github.io/html-foxford-homeworks/text-css/res/bullit.png](https://netology-code.github.io/html-foxford-homeworks/text-css/res/bullit.png)
+3. Для параграфов `p`, вложенных в `article`, задать наклонное начертание шрифта. При этом параграфы вне тегов `article` затронуты быть не должны.
+4. Для списков первого уровня установить в качестве маркера квадрат (■), а для списков второго уровня картинку ![маркер](https://netology-code.github.io/html-foxford-homeworks/text-css/res/bullit.png). Адрес картинки: [https://netology-code.github.io/html-foxford-homeworks/text-css/res/bullit.png](https://netology-code.github.io/html-foxford-homeworks/text-css/res/bullit.png)
 
 ## Задача №2
 Чтобы расписание сеансов не напоминало таблицу из учебника, нужно добавить немного цвета:
